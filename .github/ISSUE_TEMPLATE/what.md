@@ -1,5 +1,5 @@
 ---
-name: Bug reporta<b>asd</b>
+name: Bug reporta[asdf](asd)
 about: Create a report to help us improve
 title: ''
 labels: ''
